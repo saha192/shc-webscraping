@@ -24,3 +24,8 @@ The main script:
 - Existing JSON/KML files are skipped if they are already present.
 - The script assumes the SHC endpoint and GraphQL queries remain available in their current form.
 - If your utilities return unexpected output types, update the helper functions accordingly.
+
+## How to use?
+
+1. Run download_shc_kml.py
+2. Run csv_data_extractor.py
