@@ -1,4 +1,4 @@
-# Soil Health Card KML Scraper
+# Soil Health Card Scraper
 
 This repository contains a Python script to download and organize Soil Health Card (SHC) geospatial data from the SHC endpoint, including:
 
